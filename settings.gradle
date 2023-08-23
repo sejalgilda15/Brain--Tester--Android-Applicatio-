@@ -1,2 +1,2 @@
-rootProject.name='Brain Tester'
+rootProject.name='Brain Tester Application'
 include ':app'
